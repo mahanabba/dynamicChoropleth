@@ -1,0 +1,1 @@
+# dynamicChoropleth made to mark regions  with increased covid data over time. This is fake  data and not a finished progejct. To run, clone the repo and etiher type in  flask run or pyhtonn app.py in the terminal
